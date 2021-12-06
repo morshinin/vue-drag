@@ -1,4 +1,4 @@
-# vue-drag
+# Vue-drag
 
 ## Project setup
 ```
